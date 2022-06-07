@@ -3,7 +3,7 @@ smpeyres/smpeyres is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm Sean Peyres (@smpeyres), an undergradaute research assistant at the University of Illinois Urbana-Champaign
+I'm Sean M. Peyres (@smpeyres), an undergradaute research assistant at the University of Illinois Urbana-Champaign
 
 Currently pursuing a BS in Nuclear, Plasma, and Radiological Engineering 
 
