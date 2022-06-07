@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I'm Sean Peyres (@smpeyres), an undergradaute research assistant at the University of Illinois Urbana-Champaign
-Currently pursuing a BS in Nuclear, Plasma, and Radiological Engineering
+
+Currently pursuing a BS in Nuclear, Plasma, and Radiological Engineering 
+
 Concentration in Plasma & Fusion Science & Engineering; Minor in Physics
 
 I am co-advised by: 
@@ -16,7 +18,9 @@ I have been personally tutored and mentored by:
 2. Dr. Shane Keniley (UIUC NPRE PhD alum, currently at Lam Research)
 
 I am interested in modeling the complex chemistry and physics of low-temperature, atmospheric pressure plasmas
+
 I focus primarily on fluid models (ie drift-diffusion) and global plasma models (GPMs)
+
 My tool of the trade is ZAPDOS-CRANE, an open-source suite of applications for the MOOSE framework
 
 Regarding programming, I'm currently learning how to automate my workflows with python scripts and becoming more proficient with git
