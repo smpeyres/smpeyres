@@ -14,8 +14,9 @@ I am co-advised by:
 2. Prof. Davide Curreli (Laboratory of Computational Plasma Physics)
 
 I have been personally tutored and mentored by:
-1. Nabiel Abuyazid (UIUC CHBE PhD student)
+1. Dr. Nabiel Abuyazid (UIUC CHBE PhD alum, currently at UIUC)
 2. Dr. Shane Keniley (UIUC NPRE PhD alum, currently at Lam Research)
+3. Asst. Prof. Necip Üner (UIUC NPRE Post-Doc and Visiting Faculty, currently at METU)
 
 I am interested in modeling the complex chemistry and physics of low-temperature, atmospheric pressure plasmas
 
