@@ -9,7 +9,7 @@ Currently pursuing a PhD in Nuclear, Plasma, and Radiological Engineering
 
 Graduated with my BS in the same subject from the same institution in May 2023
 
-I am co-advised by: 
+I am advised by: 
 1. Prof. R. Mohan Sankaran (Synthesis, Plasma, Energy, Conversion Lab)
 2. Prof. Davide Curreli (Laboratory of Computational Plasma Physics)
 
