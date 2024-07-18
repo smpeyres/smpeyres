@@ -3,25 +3,21 @@ smpeyres/smpeyres is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm Sean M. Peyres (@smpeyres), a graduate research assistant at the University of Illinois at Urbana-Champaign. 
+Department of Energy (DOE) National Nuclear Security Administration (NNSA) Stewardship Science Graduate Fellow (SSGF)
 
-Currently pursuing a PhD in Nuclear, Plasma, and Radiological Engineering 
+Nuclear, Plasma, and Radiological Engineering (NPRE) @ University of Illinois Urbana-Champaign (UIUC)
+(BS 2023, PhD ----)
 
-Graduated with my BS in the same subject from the same institution in May 2023
+Advisor: Prof. R. Mohan Sankaran (UIUC)
 
-I am advised by: 
-1. Prof. R. Mohan Sankaran (Synthesis, Plasma, Energy, Conversion Lab)
-2. Prof. Davide Curreli (Laboratory of Computational Plasma Physics)
+Collaborators
+* Prof. Davide Curreli (UIUC)
+* Prof. Necip Üner (Middle East Technical University, UIUC)
+* Prof. David Go (University of Notre Dame)
 
-I have been personally mentored by:
-1. Dr. Nabiel Abuyazid (UIUC CHBE PhD alum, currently postdoc at UIUC)
-2. Dr. Shane Keniley (UIUC NPRE PhD alum, currently at Lam Research)
-3. Asst. Prof. Necip Üner (UIUC NPRE Post-Doc and Visiting Faculty, currently at METU)
+Too many interests right now! Will put them here after I think about it.
 
-I am interested in modeling the chemistry of low-temperature, atmospheric pressure plasma and plasma-liquid interactions.
-Current research includes reaction-diffusion modeling of the plasma-liquid interface, plasmas in contact with non-aqueous solutions, and plasma chemistry of molecular gases.
-
-I am currently the lead maintainer of the CRANE repository. https://github.com/lcpp-org/crane
+I sometimes help maintaine CRANE: https://github.com/lcpp-org/crane
 
 You can reach me at speyres2@illinois.edu
 
