@@ -15,7 +15,7 @@ Collaborators
 * Prof. Necip Üner (Middle East Technical University, UIUC)
 * Prof. David Go (University of Notre Dame)
 
-Primary Research Interest: Experiment and modeling of plasma-liquid interactions, especially involving non-aqueous solvents to expand the application space of plasma electrochemistry.
+Primary Research Interest: Experiment and modeling of plasma-liquid interactions, especially involving non-aqueous solvents to expand the application space of plasma electrochemistry
 
 Currently Learning: Julia
 
