@@ -15,7 +15,9 @@ Collaborators
 * Prof. Necip Üner (Middle East Technical University, UIUC)
 * Prof. David Go (University of Notre Dame)
 
-Too many interests right now! Will put them here after I think about it.
+Primary Research Interest: Experiment and modeling of plasma-liquid interactions, especially involving non-aqueous solvents to expand the application space of plasma electrochemistry.
+
+Currently Learning: Julia
 
 I sometimes help maintaine CRANE: https://github.com/lcpp-org/crane
 
