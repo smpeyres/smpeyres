@@ -17,8 +17,6 @@ Collaborators
 
 Primary Research Interest: Experiment and modeling of plasma-liquid interactions, especially involving non-aqueous solvents to expand the application space of plasma electrochemistry
 
-Currently Learning: Julia
-
 I sometimes help maintaine CRANE: https://github.com/lcpp-org/crane
 
 You can reach me at speyres2@illinois.edu
