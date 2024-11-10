@@ -10,10 +10,11 @@ Nuclear, Plasma, and Radiological Engineering (NPRE) @ University of Illinois Ur
 
 Advisor: Prof. R. Mohan Sankaran (UIUC)
 
-Collaborators
+Collaborators and Co-Advisors
 * Prof. Davide Curreli (UIUC)
-* Prof. Necip Üner (Middle East Technical University, UIUC)
-* Prof. David Go (University of Notre Dame)
+* Prof. David B. Go (University of Notre Dame)
+* Prof. Necip B. Üner (Middle East Technical University, UIUC)
+* Prof. L. Vergari (UIUC)
 
 Primary Research Interest: Experiment and modeling of plasma-liquid interactions, especially involving non-aqueous solvents to expand the application space of plasma electrochemistry
 
